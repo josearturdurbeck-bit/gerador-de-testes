@@ -1,0 +1,15 @@
+{
+  "name": "Gerador de Testes",
+  "short_name": "Testes",
+  "description": "Planos de aula, testes de escolha múltipla e correção",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f0e6",
+  "theme_color": "#1f3b2d",
+  "lang": "pt-PT",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
